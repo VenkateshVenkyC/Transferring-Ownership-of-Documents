@@ -1,5 +1,5 @@
 # Transferring-Ownership_Documents
-## Ownership of property is transferred through a set of **legal documents** that are recorded to officially show the change in ownership. Here’s a breakdown of the main documents involved in a simple way:
+### Ownership of property is transferred through a set of **legal documents** that are recorded to officially show the change in ownership. Here’s a breakdown of the main documents involved in a simple way:
 
 ### 1. **Deed**
    - **What it is**: A deed is the primary document that transfers property ownership from the seller to the buyer.
