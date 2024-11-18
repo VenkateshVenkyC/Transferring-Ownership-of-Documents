@@ -49,3 +49,42 @@
 7. **Property Tax Document**: Confirms all property taxes are up to date.
 
 Each document plays a specific role in legally and securely transferring ownership, ensuring both parties have clarity and protection during and after the sale.
+
+When transferring property ownership, there are specific **legal documents** that help clarify who owns the property, especially during life changes like **divorce**, **death**, or **inheritance**. Here's a simple breakdown of these key documents:
+
+---
+
+### 1. **Divorce-Related Documents**
+   - **Divorce Decree**: This is a legal order from the court that divides assets between the divorcing spouses. If one spouse keeps the home, the decree might require them to refinance the mortgage or officially transfer ownership.
+   - **Quitclaim Deed**: Used in divorce to transfer ownership from one spouse to another without guaranteeing a clear title. It simply gives up one spouse's rights in the property to the other.
+
+### 2. **Probate-Related Documents (for when someone passes away)**
+   - **Probate**: The legal process of managing and distributing a deceased person's property.
+   - **Will and Testament**: If the person left a will, it directs who should receive their property. The probate court enforces this.
+   - **Letters Testamentary/Administration**: If there’s a will, **Letters Testamentary** authorize the executor to handle the estate. Without a will, **Letters of Administration** give an appointed person the authority to manage the estate.
+   - **Probate Deed**: Used by the estate's executor to transfer the deceased’s property to the rightful heirs or beneficiaries.
+
+### 3. **General Deeds for Transferring Ownership**
+   - **General Warranty Deed**: Guarantees clear title to the property, with the seller ensuring there are no hidden claims. Used in most typical sales.
+   - **Special Warranty Deed**: Similar but limited to the time the seller owned the property (doesn’t guarantee beyond that period).
+
+### 4. **Other Important Documents**
+   - **Affidavit of Heirship**: When there’s no will or formal probate, relatives can use this document to claim the property by stating who the heirs are.
+   - **Transfer on Death Deed (TODD)**: Allows property owners to name a beneficiary to inherit the property directly upon their death, avoiding probate.
+   - **Deed of Trust or Mortgage**: If a property has a mortgage, this document shows the lender’s interest in the property. In divorce or probate, the person taking over the property might need to refinance or manage the mortgage.
+
+### 5. **Court Orders and Judgments**
+   - In both divorce and probate, courts might issue specific orders on who should get the property or if it should be sold and divided.
+
+---
+
+### Summary of Key Points:
+
+- **Divorce**: Divorce decree and quitclaim deed help with property transfers.
+- **Probate**: Will, letters testamentary, and probate deed help distribute property after death.
+- **Property Transfer**: Warranty deeds or special deeds ensure clear transfer of ownership.
+- **Special Cases**: Transfer on Death Deed, Affidavit of Heirship, or court orders may be used to simplify transfers without probate or formal disputes.
+
+---
+
+Each document plays a role in **making ownership changes legal and public** by recording them with the county office. This ensures everyone knows who the legal owner is, whether from a divorce, inheritance, or property sale.
