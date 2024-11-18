@@ -50,6 +50,8 @@
 
 Each document plays a specific role in legally and securely transferring ownership, ensuring both parties have clarity and protection during and after the sale.
 
+# Transferring property ownership
+
 ### When transferring property ownership, there are specific **legal documents** that help clarify who owns the property, especially during life changes like **divorce**, **death**, or **inheritance**. Here's a simple breakdown of these key documents:
 
 ---
